@@ -497,3 +497,17 @@
   display:block;
   padding-top:calc(100% / 1920 * 1080);
 }
+
+.img-box > .section-23 {
+  height:auto;
+  background-image:url(https://rawcdn.githack.com/DDJ-Seo/process-page/master/docs/resource/pr-23.png);
+  background-size:cover;
+  background-position:center;
+  background-repeat:no-repeat;
+}
+
+.img-box > .section-23::after {
+  content:"";
+  display:block;
+  padding-top:calc(100% / 1920 * 1080);
+}
