@@ -257,8 +257,8 @@
 
 .img-box > .section-16 > .img-10 {
   position:absolute;
-  top:11.8%;
-  left:55.1%;
+  top:12.3%;
+  left:55.7%;
 }
 
 .img-box > .section-16 > .img-10 > img {
@@ -269,28 +269,30 @@
 
 .img-box > .section-16 > .img-11 {
   position:absolute;
-  top:45.4%;
-  left:75.2%;
+  top:11.3%;
+  left:72.2%;
   z-index:6;
+  transform: rotate(121.2deg);
 }
 
 .img-box > .section-16 > .img-11 > img {
   height:auto;
   width:1.5vw;
-  max-width:28.67px;
+  max-width:20.74px;
 }
 
 .img-box > .section-16 > .img-15 {
   position:absolute;
-  top:45.4%;
-  left:75.2%;
+  top:11.9%;
+  left:74.2%;
   z-index:6;
+  transform: rotate(45deg);
 }
 
 .img-box > .section-16 > .img-15 > img {
   height:auto;
   width:1.5vw;
-  max-width:28.67px;
+  max-width:20.74px;
 }
 
 .img-box > .section-17 {
