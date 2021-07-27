@@ -242,7 +242,7 @@
 
 .img-box > .section-16 {
   height:auto;
-  background-image:url(https://rawcdn.githack.com/DDJ-Seo/process-page/master/docs/resource/pr-16.png);
+  background-image:url(https://rawcdn.githack.com/DDJ-Seo/process-page/master/docs/resource/pr-16);
   background-size:cover;
   background-position:center;
   background-repeat:no-repeat;
@@ -275,6 +275,19 @@
 }
 
 .img-box > .section-16 > .img-11 > img {
+  height:auto;
+  width:1.5vw;
+  max-width:28.67px;
+}
+
+.img-box > .section-16 > .img-15 {
+  position:absolute;
+  top:45.4%;
+  left:75.2%;
+  z-index:6;
+}
+
+.img-box > .section-16 > .img-15 > img {
   height:auto;
   width:1.5vw;
   max-width:28.67px;
