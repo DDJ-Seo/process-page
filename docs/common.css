@@ -389,7 +389,7 @@
 .img-box > .section-19::after {
   content:"";
   display:block;
-  padding-top:calc(100% / 1920 * 2588);
+  padding-top:calc(100% / 1920 * 2458);
 }
 
 .img-box > .section-19 > .img-3 {
